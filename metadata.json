@@ -1,0 +1,6 @@
+{
+  "name": "VerityAI",
+  "description": "AI-powered digital authenticity and evidence analysis platform for images, news claims, and PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
